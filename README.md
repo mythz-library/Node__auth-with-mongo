@@ -11,3 +11,4 @@
 3. joi
 4. mongoose
 5. lodash
+6. bcrypt - to hash passwords
