@@ -10,3 +10,4 @@
 2. dotenv - to manage environment variables
 3. joi
 4. mongoose
+5. lodash
